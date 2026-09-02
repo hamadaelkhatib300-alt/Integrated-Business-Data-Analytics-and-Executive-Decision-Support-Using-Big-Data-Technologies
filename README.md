@@ -20,6 +20,12 @@ Manage distributed storage using HDFS.
 Create analytical tables with Apache Hive.
 Deliver an executive dashboard for data-driven decision support.
 
+## 🌐 Live Demo
+
+Access the interactive Executive Dashboard here:
+🔗 https://bigdata-dash-rjltdss6.manus.space/
+
+
 ## Data Pipeline
 
 ```text
