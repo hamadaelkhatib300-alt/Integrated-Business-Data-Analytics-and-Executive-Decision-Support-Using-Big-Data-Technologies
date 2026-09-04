@@ -20,6 +20,18 @@ Manage distributed storage using HDFS.
 Create analytical tables with Apache Hive.
 Deliver an executive dashboard for data-driven decision support.
 
+## 🛠️ Tech Stack
+
+- Apache Kafka
+- Apache Spark (PySpark)
+- Python
+- Parquet
+- Hadoop HDFS
+- Apache Hive
+- SQL
+- Web Application
+- Power BI
+
 ## 🌐 Live Demo
 
 Access the interactive Executive Dashboard here:
@@ -30,6 +42,9 @@ Access the interactive Executive Dashboard here:
 
 ```text
 📂 Data Sources
+     │
+     ▼
+   Apache Kafka 
      │
      ▼
 ⚙️ PySpark ETL
